@@ -1,0 +1,401 @@
+product_id,category,product_name,unit_cost,selling_price,margin_pct
+P001,Dairy,Milk Variant 1,74.65,88.78,15.92
+P002,Dairy,Milk Variant 2,449.34,661.69,32.09
+P003,Dairy,Milk Variant 3,74.68,116.62,35.96
+P004,Dairy,Milk Variant 4,295.91,413.43,28.43
+P005,Dairy,Milk Variant 5,352.73,434.5,18.82
+P006,Dairy,Milk Variant 6,30.65,47.6,35.61
+P007,Dairy,Milk Variant 7,324.12,509.76,36.42
+P008,Dairy,Milk Variant 8,65.6,96.92,32.32
+P009,Dairy,Milk Variant 9,205.9,277.97,25.93
+P010,Dairy,Milk Variant 10,111.34,160.12,30.46
+P011,Dairy,Cheese Variant 1,437.98,688.72,36.41
+P012,Dairy,Cheese Variant 2,460.52,601.79,23.47
+P013,Dairy,Cheese Variant 3,248.04,353.04,29.74
+P014,Dairy,Cheese Variant 4,419.84,525.13,20.05
+P015,Dairy,Cheese Variant 5,495.9,686.61,27.78
+P016,Dairy,Cheese Variant 6,391.95,623.99,37.19
+P017,Dairy,Cheese Variant 7,93.41,117.45,20.47
+P018,Dairy,Cheese Variant 8,438.73,680.71,35.55
+P019,Dairy,Cheese Variant 9,76.96,92.79,17.06
+P020,Dairy,Cheese Variant 10,307.37,472.98,35.01
+P021,Dairy,Butter Variant 1,158.03,220.18,28.23
+P022,Dairy,Butter Variant 2,392.07,480.52,18.41
+P023,Dairy,Butter Variant 3,386.3,462.36,16.45
+P024,Dairy,Butter Variant 4,437.92,513.07,14.65
+P025,Dairy,Butter Variant 5,263.89,367.08,28.11
+P026,Dairy,Butter Variant 6,414.07,660.19,37.28
+P027,Dairy,Butter Variant 7,55.87,75.26,25.76
+P028,Dairy,Butter Variant 8,153.73,207.46,25.9
+P029,Dairy,Butter Variant 9,222.83,324.78,31.39
+P030,Dairy,Butter Variant 10,234.51,279.16,15.99
+P031,Dairy,Curd Variant 1,329.48,397.35,17.08
+P032,Dairy,Curd Variant 2,391.67,591.88,33.83
+P033,Dairy,Curd Variant 3,52.57,63.99,17.85
+P034,Dairy,Curd Variant 4,131.46,186.66,29.57
+P035,Dairy,Curd Variant 5,30.06,38.55,22.02
+P036,Dairy,Curd Variant 6,257.25,359.42,28.43
+P037,Dairy,Curd Variant 7,127.37,148.01,13.95
+P038,Dairy,Curd Variant 8,196.42,309.67,36.57
+P039,Dairy,Curd Variant 9,258.88,407.19,36.42
+P040,Dairy,Curd Variant 10,444.48,566.0,21.47
+P041,Dairy,Paneer Variant 1,234.16,275.21,14.92
+P042,Dairy,Paneer Variant 2,105.75,136.41,22.48
+P043,Dairy,Paneer Variant 3,490.79,602.74,18.57
+P044,Dairy,Paneer Variant 4,391.65,612.2,36.03
+P045,Dairy,Paneer Variant 5,98.13,127.48,23.02
+P046,Dairy,Paneer Variant 6,259.16,301.53,14.05
+P047,Dairy,Paneer Variant 7,225.95,336.95,32.94
+P048,Dairy,Paneer Variant 8,382.38,481.98,20.66
+P049,Dairy,Paneer Variant 9,485.8,775.17,37.33
+P050,Dairy,Paneer Variant 10,305.95,442.98,30.93
+P051,Snacks,Potato Chips Variant 1,75.98,94.5,19.6
+P052,Snacks,Potato Chips Variant 2,368.82,555.59,33.62
+P053,Snacks,Potato Chips Variant 3,51.31,67.82,24.34
+P054,Snacks,Potato Chips Variant 4,160.67,241.4,33.44
+P055,Snacks,Potato Chips Variant 5,200.47,313.57,36.07
+P056,Snacks,Potato Chips Variant 6,373.51,486.37,23.2
+P057,Snacks,Potato Chips Variant 7,184.66,275.69,33.02
+P058,Snacks,Potato Chips Variant 8,277.7,322.52,13.9
+P059,Snacks,Potato Chips Variant 9,38.32,47.86,19.93
+P060,Snacks,Potato Chips Variant 10,165.71,226.96,26.99
+P061,Snacks,Nachos Variant 1,125.04,158.67,21.19
+P062,Snacks,Nachos Variant 2,33.52,39.8,15.78
+P063,Snacks,Nachos Variant 3,199.91,250.69,20.26
+P064,Snacks,Nachos Variant 4,241.16,293.55,17.85
+P065,Snacks,Nachos Variant 5,20.31,26.38,23.01
+P066,Snacks,Nachos Variant 6,106.38,124.04,14.24
+P067,Snacks,Nachos Variant 7,194.76,230.24,15.41
+P068,Snacks,Nachos Variant 8,232.9,324.29,28.18
+P069,Snacks,Nachos Variant 9,82.47,98.71,16.45
+P070,Snacks,Nachos Variant 10,76.7,99.47,22.89
+P071,Snacks,Popcorn Variant 1,336.98,460.85,26.88
+P072,Snacks,Popcorn Variant 2,82.32,98.59,16.5
+P073,Snacks,Popcorn Variant 3,53.29,76.68,30.5
+P074,Snacks,Popcorn Variant 4,413.37,598.06,30.88
+P075,Snacks,Popcorn Variant 5,31.07,40.64,23.55
+P076,Snacks,Popcorn Variant 6,157.13,208.14,24.51
+P077,Snacks,Popcorn Variant 7,273.19,322.69,15.34
+P078,Snacks,Popcorn Variant 8,457.22,616.09,25.79
+P079,Snacks,Popcorn Variant 9,151.86,224.02,32.21
+P080,Snacks,Popcorn Variant 10,413.68,511.58,19.14
+P081,Snacks,Cookies Variant 1,243.09,377.79,35.65
+P082,Snacks,Cookies Variant 2,257.32,355.93,27.7
+P083,Snacks,Cookies Variant 3,461.09,564.38,18.3
+P084,Snacks,Cookies Variant 4,114.92,173.39,33.72
+P085,Snacks,Cookies Variant 5,212.78,302.29,29.61
+P086,Snacks,Cookies Variant 6,362.29,427.35,15.22
+P087,Snacks,Cookies Variant 7,422.86,490.76,13.84
+P088,Snacks,Cookies Variant 8,361.72,419.08,13.69
+P089,Snacks,Cookies Variant 9,234.83,335.38,29.98
+P090,Snacks,Cookies Variant 10,325.47,420.45,22.59
+P091,Snacks,Namkeen Variant 1,43.39,53.91,19.51
+P092,Snacks,Namkeen Variant 2,467.44,545.03,14.24
+P093,Snacks,Namkeen Variant 3,99.83,142.82,30.1
+P094,Snacks,Namkeen Variant 4,94.27,124.13,24.06
+P095,Snacks,Namkeen Variant 5,289.52,395.76,26.84
+P096,Snacks,Namkeen Variant 6,296.0,344.76,14.14
+P097,Snacks,Namkeen Variant 7,420.68,594.61,29.25
+P098,Snacks,Namkeen Variant 8,172.61,217.69,20.71
+P099,Snacks,Namkeen Variant 9,306.22,432.75,29.24
+P100,Snacks,Namkeen Variant 10,489.83,603.17,18.79
+P101,Beverages,Orange Juice Variant 1,444.42,588.39,24.47
+P102,Beverages,Orange Juice Variant 2,130.04,200.21,35.05
+P103,Beverages,Orange Juice Variant 3,67.52,84.28,19.89
+P104,Beverages,Orange Juice Variant 4,379.83,471.23,19.4
+P105,Beverages,Orange Juice Variant 5,333.14,410.74,18.89
+P106,Beverages,Orange Juice Variant 6,303.06,402.9,24.78
+P107,Beverages,Orange Juice Variant 7,87.1,119.08,26.86
+P108,Beverages,Orange Juice Variant 8,343.79,533.12,35.51
+P109,Beverages,Orange Juice Variant 9,326.66,456.43,28.43
+P110,Beverages,Orange Juice Variant 10,53.36,73.49,27.39
+P111,Beverages,Cola Variant 1,141.72,170.6,16.93
+P112,Beverages,Cola Variant 2,244.57,324.73,24.69
+P113,Beverages,Cola Variant 3,162.51,225.91,28.06
+P114,Beverages,Cola Variant 4,412.21,570.9,27.8
+P115,Beverages,Cola Variant 5,345.93,443.1,21.93
+P116,Beverages,Cola Variant 6,189.83,303.57,37.47
+P117,Beverages,Cola Variant 7,112.74,160.98,29.97
+P118,Beverages,Cola Variant 8,43.18,51.95,16.88
+P119,Beverages,Cola Variant 9,71.67,82.51,13.14
+P120,Beverages,Cola Variant 10,230.99,336.79,31.41
+P121,Beverages,Green Tea Variant 1,170.1,237.64,28.42
+P122,Beverages,Green Tea Variant 2,259.33,373.73,30.61
+P123,Beverages,Green Tea Variant 3,115.39,135.89,15.09
+P124,Beverages,Green Tea Variant 4,296.56,425.65,30.33
+P125,Beverages,Green Tea Variant 5,349.16,540.71,35.43
+P126,Beverages,Green Tea Variant 6,282.12,439.85,35.86
+P127,Beverages,Green Tea Variant 7,95.34,152.1,37.32
+P128,Beverages,Green Tea Variant 8,477.79,644.84,25.91
+P129,Beverages,Green Tea Variant 9,345.78,418.13,17.3
+P130,Beverages,Green Tea Variant 10,109.31,160.9,32.06
+P131,Beverages,Coffee Variant 1,480.45,634.45,24.27
+P132,Beverages,Coffee Variant 2,426.36,636.89,33.06
+P133,Beverages,Coffee Variant 3,277.14,332.98,16.77
+P134,Beverages,Coffee Variant 4,213.03,301.22,29.28
+P135,Beverages,Coffee Variant 5,117.85,151.28,22.1
+P136,Beverages,Coffee Variant 6,452.86,626.42,27.71
+P137,Beverages,Coffee Variant 7,485.7,693.68,29.98
+P138,Beverages,Coffee Variant 8,324.31,479.12,32.31
+P139,Beverages,Coffee Variant 9,81.58,120.61,32.36
+P140,Beverages,Coffee Variant 10,182.83,291.13,37.2
+P141,Beverages,Energy Drink Variant 1,63.27,92.0,31.23
+P142,Beverages,Energy Drink Variant 2,28.72,35.57,19.26
+P143,Beverages,Energy Drink Variant 3,333.19,478.34,30.34
+P144,Beverages,Energy Drink Variant 4,488.16,721.41,32.33
+P145,Beverages,Energy Drink Variant 5,44.25,53.63,17.49
+P146,Beverages,Energy Drink Variant 6,359.63,434.93,17.31
+P147,Beverages,Energy Drink Variant 7,188.49,271.16,30.49
+P148,Beverages,Energy Drink Variant 8,101.28,138.2,26.71
+P149,Beverages,Energy Drink Variant 9,388.78,551.38,29.49
+P150,Beverages,Energy Drink Variant 10,296.53,459.78,35.51
+P151,Fruits,Apple Variant 1,108.84,135.93,19.93
+P152,Fruits,Apple Variant 2,60.0,92.25,34.96
+P153,Fruits,Apple Variant 3,308.99,381.94,19.1
+P154,Fruits,Apple Variant 4,187.81,218.99,14.24
+P155,Fruits,Apple Variant 5,78.88,102.38,22.95
+P156,Fruits,Apple Variant 6,218.27,333.92,34.63
+P157,Fruits,Apple Variant 7,438.79,522.29,15.99
+P158,Fruits,Apple Variant 8,77.71,94.67,17.91
+P159,Fruits,Apple Variant 9,135.99,197.26,31.06
+P160,Fruits,Apple Variant 10,37.14,56.68,34.47
+P161,Fruits,Banana Variant 1,407.23,582.1,30.04
+P162,Fruits,Banana Variant 2,122.84,165.69,25.86
+P163,Fruits,Banana Variant 3,435.1,681.29,36.14
+P164,Fruits,Banana Variant 4,63.25,85.98,26.44
+P165,Fruits,Banana Variant 5,51.72,76.36,32.27
+P166,Fruits,Banana Variant 6,471.11,671.83,29.88
+P167,Fruits,Banana Variant 7,142.55,193.62,26.38
+P168,Fruits,Banana Variant 8,109.27,152.8,28.49
+P169,Fruits,Banana Variant 9,356.46,462.82,22.98
+P170,Fruits,Banana Variant 10,89.72,107.71,16.7
+P171,Fruits,Mango Variant 1,441.16,688.24,35.9
+P172,Fruits,Mango Variant 2,27.38,41.53,34.07
+P173,Fruits,Mango Variant 3,233.77,298.69,21.73
+P174,Fruits,Mango Variant 4,389.15,599.41,35.08
+P175,Fruits,Mango Variant 5,278.58,324.23,14.08
+P176,Fruits,Mango Variant 6,393.14,626.55,37.25
+P177,Fruits,Mango Variant 7,353.12,561.46,37.11
+P178,Fruits,Mango Variant 8,174.42,226.77,23.09
+P179,Fruits,Mango Variant 9,205.78,316.67,35.02
+P180,Fruits,Mango Variant 10,492.77,719.04,31.47
+P181,Fruits,Grapes Variant 1,159.52,190.68,16.34
+P182,Fruits,Grapes Variant 2,66.68,96.06,30.59
+P183,Fruits,Grapes Variant 3,108.06,162.94,33.68
+P184,Fruits,Grapes Variant 4,68.38,91.93,25.62
+P185,Fruits,Grapes Variant 5,114.18,182.01,37.27
+P186,Fruits,Grapes Variant 6,473.26,634.15,25.37
+P187,Fruits,Grapes Variant 7,141.95,195.29,27.31
+P188,Fruits,Grapes Variant 8,356.64,442.31,19.37
+P189,Fruits,Grapes Variant 9,38.49,45.95,16.24
+P190,Fruits,Grapes Variant 10,193.07,289.3,33.26
+P191,Fruits,Orange Variant 1,76.16,120.78,36.94
+P192,Fruits,Orange Variant 2,57.31,90.48,36.66
+P193,Fruits,Orange Variant 3,101.52,144.04,29.52
+P194,Fruits,Orange Variant 4,291.52,437.16,33.32
+P195,Fruits,Orange Variant 5,301.23,378.85,20.49
+P196,Fruits,Orange Variant 6,199.85,257.89,22.51
+P197,Fruits,Orange Variant 7,113.56,134.9,15.82
+P198,Fruits,Orange Variant 8,71.62,91.53,21.75
+P199,Fruits,Orange Variant 9,61.98,80.34,22.85
+P200,Fruits,Orange Variant 10,120.2,171.57,29.94
+P201,Vegetables,Tomato Variant 1,252.02,292.29,13.78
+P202,Vegetables,Tomato Variant 2,346.47,414.5,16.41
+P203,Vegetables,Tomato Variant 3,153.66,207.23,25.85
+P204,Vegetables,Tomato Variant 4,128.95,187.88,31.37
+P205,Vegetables,Tomato Variant 5,485.32,561.46,13.56
+P206,Vegetables,Tomato Variant 6,236.68,353.96,33.13
+P207,Vegetables,Tomato Variant 7,22.91,33.84,32.3
+P208,Vegetables,Tomato Variant 8,177.82,224.62,20.84
+P209,Vegetables,Tomato Variant 9,386.81,618.83,37.49
+P210,Vegetables,Tomato Variant 10,111.2,142.52,21.98
+P211,Vegetables,Potato Variant 1,27.63,33.47,17.45
+P212,Vegetables,Potato Variant 2,303.31,365.71,17.06
+P213,Vegetables,Potato Variant 3,361.12,480.34,24.82
+P214,Vegetables,Potato Variant 4,234.9,332.05,29.26
+P215,Vegetables,Potato Variant 5,330.77,524.47,36.93
+P216,Vegetables,Potato Variant 6,106.23,159.5,33.4
+P217,Vegetables,Potato Variant 7,149.06,235.9,36.81
+P218,Vegetables,Potato Variant 8,487.12,712.21,31.6
+P219,Vegetables,Potato Variant 9,416.71,572.85,27.26
+P220,Vegetables,Potato Variant 10,257.92,358.65,28.09
+P221,Vegetables,Onion Variant 1,300.48,421.88,28.78
+P222,Vegetables,Onion Variant 2,46.55,72.4,35.7
+P223,Vegetables,Onion Variant 3,327.43,507.22,35.45
+P224,Vegetables,Onion Variant 4,425.1,520.88,18.39
+P225,Vegetables,Onion Variant 5,78.01,124.12,37.15
+P226,Vegetables,Onion Variant 6,196.01,229.02,14.41
+P227,Vegetables,Onion Variant 7,30.92,48.96,36.85
+P228,Vegetables,Onion Variant 8,273.09,417.28,34.55
+P229,Vegetables,Onion Variant 9,48.05,58.3,17.58
+P230,Vegetables,Onion Variant 10,229.53,361.3,36.47
+P231,Vegetables,Carrot Variant 1,356.6,452.55,21.2
+P232,Vegetables,Carrot Variant 2,407.71,487.64,16.39
+P233,Vegetables,Carrot Variant 3,300.74,346.04,13.09
+P234,Vegetables,Carrot Variant 4,51.48,62.62,17.79
+P235,Vegetables,Carrot Variant 5,178.99,230.67,22.4
+P236,Vegetables,Carrot Variant 6,114.72,142.78,19.65
+P237,Vegetables,Carrot Variant 7,414.51,654.13,36.63
+P238,Vegetables,Carrot Variant 8,370.03,428.55,13.66
+P239,Vegetables,Carrot Variant 9,433.29,608.47,28.79
+P240,Vegetables,Carrot Variant 10,187.36,295.91,36.68
+P241,Vegetables,Capsicum Variant 1,198.79,233.75,14.96
+P242,Vegetables,Capsicum Variant 2,96.39,146.36,34.14
+P243,Vegetables,Capsicum Variant 3,340.45,526.01,35.28
+P244,Vegetables,Capsicum Variant 4,119.04,153.82,22.61
+P245,Vegetables,Capsicum Variant 5,470.02,741.7,36.63
+P246,Vegetables,Capsicum Variant 6,346.36,445.56,22.26
+P247,Vegetables,Capsicum Variant 7,193.52,271.64,28.76
+P248,Vegetables,Capsicum Variant 8,59.59,93.85,36.51
+P249,Vegetables,Capsicum Variant 9,147.59,173.64,15.0
+P250,Vegetables,Capsicum Variant 10,206.3,317.69,35.06
+P251,Personal Care,Shampoo Variant 1,293.18,395.08,25.79
+P252,Personal Care,Shampoo Variant 2,101.36,160.7,36.93
+P253,Personal Care,Shampoo Variant 3,231.2,286.54,19.31
+P254,Personal Care,Shampoo Variant 4,249.21,292.42,14.78
+P255,Personal Care,Shampoo Variant 5,123.89,164.81,24.83
+P256,Personal Care,Shampoo Variant 6,459.96,555.65,17.22
+P257,Personal Care,Shampoo Variant 7,158.65,201.93,21.43
+P258,Personal Care,Shampoo Variant 8,54.2,82.76,34.51
+P259,Personal Care,Shampoo Variant 9,404.58,500.03,19.09
+P260,Personal Care,Shampoo Variant 10,82.19,126.11,34.83
+P261,Personal Care,Soap Variant 1,221.62,336.52,34.14
+P262,Personal Care,Soap Variant 2,442.08,568.02,22.17
+P263,Personal Care,Soap Variant 3,387.29,560.61,30.92
+P264,Personal Care,Soap Variant 4,254.65,300.74,15.33
+P265,Personal Care,Soap Variant 5,93.74,139.36,32.74
+P266,Personal Care,Soap Variant 6,267.34,409.54,34.72
+P267,Personal Care,Soap Variant 7,150.28,189.66,20.76
+P268,Personal Care,Soap Variant 8,48.47,73.26,33.84
+P269,Personal Care,Soap Variant 9,327.83,465.65,29.6
+P270,Personal Care,Soap Variant 10,162.89,248.06,34.33
+P271,Personal Care,Face Wash Variant 1,160.64,222.97,27.95
+P272,Personal Care,Face Wash Variant 2,374.7,560.12,33.1
+P273,Personal Care,Face Wash Variant 3,392.03,620.88,36.86
+P274,Personal Care,Face Wash Variant 4,371.21,548.16,32.28
+P275,Personal Care,Face Wash Variant 5,395.06,512.79,22.96
+P276,Personal Care,Face Wash Variant 6,92.33,140.43,34.25
+P277,Personal Care,Face Wash Variant 7,115.81,178.74,35.21
+P278,Personal Care,Face Wash Variant 8,94.38,116.9,19.26
+P279,Personal Care,Face Wash Variant 9,449.58,618.12,27.27
+P280,Personal Care,Face Wash Variant 10,461.01,627.12,26.49
+P281,Personal Care,Toothpaste Variant 1,358.76,424.67,15.52
+P282,Personal Care,Toothpaste Variant 2,122.49,156.4,21.68
+P283,Personal Care,Toothpaste Variant 3,426.31,633.31,32.69
+P284,Personal Care,Toothpaste Variant 4,85.88,132.01,34.94
+P285,Personal Care,Toothpaste Variant 5,440.36,563.24,21.82
+P286,Personal Care,Toothpaste Variant 6,386.56,606.84,36.3
+P287,Personal Care,Toothpaste Variant 7,407.57,475.51,14.29
+P288,Personal Care,Toothpaste Variant 8,412.84,630.11,34.48
+P289,Personal Care,Toothpaste Variant 9,409.89,490.67,16.46
+P290,Personal Care,Toothpaste Variant 10,250.46,355.98,29.64
+P291,Personal Care,Body Lotion Variant 1,163.85,234.84,30.23
+P292,Personal Care,Body Lotion Variant 2,467.97,610.26,23.32
+P293,Personal Care,Body Lotion Variant 3,247.26,339.28,27.12
+P294,Personal Care,Body Lotion Variant 4,146.97,173.9,15.49
+P295,Personal Care,Body Lotion Variant 5,466.55,578.42,19.34
+P296,Personal Care,Body Lotion Variant 6,349.43,511.84,31.73
+P297,Personal Care,Body Lotion Variant 7,129.8,162.52,20.13
+P298,Personal Care,Body Lotion Variant 8,332.78,399.64,16.73
+P299,Personal Care,Body Lotion Variant 9,39.05,59.17,34.0
+P300,Personal Care,Body Lotion Variant 10,182.23,279.92,34.9
+P301,Household,Detergent Variant 1,306.34,403.77,24.13
+P302,Household,Detergent Variant 2,133.78,157.55,15.09
+P303,Household,Detergent Variant 3,268.01,404.38,33.72
+P304,Household,Detergent Variant 4,198.83,296.73,32.99
+P305,Household,Detergent Variant 5,208.28,261.57,20.37
+P306,Household,Detergent Variant 6,324.06,509.21,36.36
+P307,Household,Detergent Variant 7,29.36,37.03,20.71
+P308,Household,Detergent Variant 8,102.15,122.42,16.56
+P309,Household,Detergent Variant 9,43.82,57.1,23.26
+P310,Household,Detergent Variant 10,69.77,110.93,37.1
+P311,Household,Floor Cleaner Variant 1,451.58,696.52,35.17
+P312,Household,Floor Cleaner Variant 2,303.17,368.39,17.7
+P313,Household,Floor Cleaner Variant 3,400.74,527.15,23.98
+P314,Household,Floor Cleaner Variant 4,218.78,335.57,34.8
+P315,Household,Floor Cleaner Variant 5,242.6,360.85,32.77
+P316,Household,Floor Cleaner Variant 6,471.88,592.57,20.37
+P317,Household,Floor Cleaner Variant 7,322.57,434.29,25.72
+P318,Household,Floor Cleaner Variant 8,391.53,451.25,13.23
+P319,Household,Floor Cleaner Variant 9,478.79,563.68,15.06
+P320,Household,Floor Cleaner Variant 10,226.42,283.52,20.14
+P321,Household,Dish Wash Variant 1,174.15,203.07,14.24
+P322,Household,Dish Wash Variant 2,256.06,341.71,25.07
+P323,Household,Dish Wash Variant 3,99.59,116.64,14.62
+P324,Household,Dish Wash Variant 4,74.71,102.32,26.98
+P325,Household,Dish Wash Variant 5,32.97,47.71,30.89
+P326,Household,Dish Wash Variant 6,117.39,154.95,24.24
+P327,Household,Dish Wash Variant 7,336.68,483.25,30.33
+P328,Household,Dish Wash Variant 8,368.27,437.13,15.75
+P329,Household,Dish Wash Variant 9,140.32,191.49,26.72
+P330,Household,Dish Wash Variant 10,104.1,133.08,21.78
+P331,Household,Tissue Paper Variant 1,20.41,32.47,37.14
+P332,Household,Tissue Paper Variant 2,255.27,325.24,21.51
+P333,Household,Tissue Paper Variant 3,154.8,233.21,33.62
+P334,Household,Tissue Paper Variant 4,393.01,509.89,22.92
+P335,Household,Tissue Paper Variant 5,100.32,124.09,19.16
+P336,Household,Tissue Paper Variant 6,38.03,55.95,32.03
+P337,Household,Tissue Paper Variant 7,33.84,47.22,28.34
+P338,Household,Tissue Paper Variant 8,41.84,51.28,18.41
+P339,Household,Tissue Paper Variant 9,395.75,589.82,32.9
+P340,Household,Tissue Paper Variant 10,191.67,289.14,33.71
+P341,Household,Garbage Bags Variant 1,409.46,545.48,24.94
+P342,Household,Garbage Bags Variant 2,105.52,149.85,29.58
+P343,Household,Garbage Bags Variant 3,355.67,504.13,29.45
+P344,Household,Garbage Bags Variant 4,292.41,369.23,20.81
+P345,Household,Garbage Bags Variant 5,272.06,392.93,30.76
+P346,Household,Garbage Bags Variant 6,205.74,323.75,36.45
+P347,Household,Garbage Bags Variant 7,122.17,175.47,30.38
+P348,Household,Garbage Bags Variant 8,27.72,41.02,32.42
+P349,Household,Garbage Bags Variant 9,190.92,247.64,22.9
+P350,Household,Garbage Bags Variant 10,105.07,146.0,28.03
+P351,Frozen Food,Frozen Pizza Variant 1,91.19,140.47,35.08
+P352,Frozen Food,Frozen Pizza Variant 2,265.94,319.5,16.76
+P353,Frozen Food,Frozen Pizza Variant 3,397.79,499.56,20.37
+P354,Frozen Food,Frozen Pizza Variant 4,195.45,233.37,16.25
+P355,Frozen Food,Frozen Pizza Variant 5,200.17,296.17,32.41
+P356,Frozen Food,Frozen Pizza Variant 6,343.88,434.25,20.81
+P357,Frozen Food,Frozen Pizza Variant 7,487.36,604.7,19.4
+P358,Frozen Food,Frozen Pizza Variant 8,77.25,122.25,36.81
+P359,Frozen Food,Frozen Pizza Variant 9,310.23,494.54,37.27
+P360,Frozen Food,Frozen Pizza Variant 10,112.98,160.95,29.8
+P361,Frozen Food,Ice Cream Variant 1,445.96,525.04,15.06
+P362,Frozen Food,Ice Cream Variant 2,327.54,506.88,35.38
+P363,Frozen Food,Ice Cream Variant 3,419.35,573.09,26.83
+P364,Frozen Food,Ice Cream Variant 4,170.95,264.13,35.28
+P365,Frozen Food,Ice Cream Variant 5,294.58,352.77,16.5
+P366,Frozen Food,Ice Cream Variant 6,224.95,331.86,32.22
+P367,Frozen Food,Ice Cream Variant 7,151.96,190.59,20.27
+P368,Frozen Food,Ice Cream Variant 8,56.9,78.46,27.48
+P369,Frozen Food,Ice Cream Variant 9,166.89,251.08,33.53
+P370,Frozen Food,Ice Cream Variant 10,439.21,634.32,30.76
+P371,Frozen Food,Frozen Fries Variant 1,141.0,182.37,22.68
+P372,Frozen Food,Frozen Fries Variant 2,244.99,354.08,30.81
+P373,Frozen Food,Frozen Fries Variant 3,294.55,375.31,21.52
+P374,Frozen Food,Frozen Fries Variant 4,334.68,447.26,25.17
+P375,Frozen Food,Frozen Fries Variant 5,246.87,350.0,29.47
+P376,Frozen Food,Frozen Fries Variant 6,424.22,506.11,16.18
+P377,Frozen Food,Frozen Fries Variant 7,208.91,262.45,20.4
+P378,Frozen Food,Frozen Fries Variant 8,28.5,35.93,20.68
+P379,Frozen Food,Frozen Fries Variant 9,223.95,306.66,26.97
+P380,Frozen Food,Frozen Fries Variant 10,396.19,556.98,28.87
+P381,Frozen Food,Frozen Nuggets Variant 1,207.81,276.77,24.92
+P382,Frozen Food,Frozen Nuggets Variant 2,174.69,235.65,25.87
+P383,Frozen Food,Frozen Nuggets Variant 3,492.3,639.98,23.08
+P384,Frozen Food,Frozen Nuggets Variant 4,33.53,39.2,14.46
+P385,Frozen Food,Frozen Nuggets Variant 5,496.29,710.83,30.18
+P386,Frozen Food,Frozen Nuggets Variant 6,466.49,552.59,15.58
+P387,Frozen Food,Frozen Nuggets Variant 7,491.73,716.82,31.4
+P388,Frozen Food,Frozen Nuggets Variant 8,304.89,459.43,33.64
+P389,Frozen Food,Frozen Nuggets Variant 9,360.06,497.14,27.57
+P390,Frozen Food,Frozen Nuggets Variant 10,273.12,414.84,34.16
+P391,Frozen Food,Frozen Peas Variant 1,278.61,390.67,28.68
+P392,Frozen Food,Frozen Peas Variant 2,29.76,45.86,35.11
+P393,Frozen Food,Frozen Peas Variant 3,35.5,49.96,28.94
+P394,Frozen Food,Frozen Peas Variant 4,133.35,160.28,16.8
+P395,Frozen Food,Frozen Peas Variant 5,80.15,106.7,24.88
+P396,Frozen Food,Frozen Peas Variant 6,206.75,287.18,28.01
+P397,Frozen Food,Frozen Peas Variant 7,325.85,517.08,36.98
+P398,Frozen Food,Frozen Peas Variant 8,112.35,143.55,21.73
+P399,Frozen Food,Frozen Peas Variant 9,469.53,620.62,24.35
+P400,Frozen Food,Frozen Peas Variant 10,299.21,379.24,21.1
